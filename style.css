@@ -1,0 +1,19 @@
+/*  
+
+Theme Name: Codebones
+Theme URI: https://github.com/joemendonca/codebones
+Description: Starter WordPress theme.
+Version: 1.0
+Author: Joe Mendonca
+Author URI: http://www.mendoncacreative.com/
+
+*/
+
+/* HTML Elements */
+
+* { margin: 0; padding: 0; }
+body { background: #FFFFFF; margin: 0; color: #000000; }
+img { border: 0px none; }
+.alignleft { display: inline; float: left; margin-right: 10px; margin-bottom: 10px; }
+.alignright { display: inline; float: right; margin-left: 10px; margin-bottom: 10px; }
+.aligncenter { display: inline; float: center; }
